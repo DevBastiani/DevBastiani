@@ -8,10 +8,10 @@ I'm a **Backend/Full Stack Developer** with solid experience in **.NET (C#)**, *
 
 ## 💼 What I Do
 
-- 🔧 Develop robust backend systems with **C#/.NET**, **Java**, and **Groovy**
-- 🌐 Build full-stack applications using **Blazor**, **Angular**, and **Grails**
+- 🔧 Develop robust backend systems with **C#/.NET** and **Java**
+- 🌐 Build full-stack applications using **Blazor** and **React**
 - 🧠 Apply software design principles like **DDD**, **TDD**, and **Clean Architecture**
-- ⚙️ Work with **Kafka**, **RabbitMQ**, **CI/CD**, and **distributed systems**
+- ⚙️ Work with **Kafka**, **RabbitMQ**, **CI/CD**, microsservices and **distributed systems**
 - 📦 Manage databases: **SQL Server**, **PostgreSQL**, and more
 
 ---
